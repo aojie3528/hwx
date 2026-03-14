@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Constant.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TLE2PosVel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TWOBODY.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="COORTRAN.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GreenwichSiderealTime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MATRIX.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DateTimeZ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CholeskyDecomposition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EOP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NPElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Nutation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PolarMotion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Precession.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RadarObsLL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SimulateDataLL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LagrangianInterpolation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AstroArgument.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PolyFit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TLEPropagation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TLE2PosVel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TWOBODY.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="COORTRAN.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GreenwichSiderealTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MATRIX.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DateTimeZ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CholeskyDecomposition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EOP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NPElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Nutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PolarMotion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Precession.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RadarObsLL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulateDataLL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LagrangianInterpolation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AstroArgument.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PolyFit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
