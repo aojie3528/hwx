@@ -291,6 +291,7 @@ public:
 
 	bool ReadModified( const char *szEOPFileName, const char *szTAImUTCFileName );
 	bool Read( const char *szEOPFileName, const char *szTAImUTCFileName );
+	bool ReadEOP(string directory);
 
 	bool ComputePole( double dfJD, double *pdfPole );
 
